@@ -1,0 +1,17 @@
+
+*{
+    background-color: rgb(197, 151, 151);
+}
+
+body{
+    
+}
+
+.Tareas{
+    border: 1px solid #0000;
+    width: 500px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
